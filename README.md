@@ -1,10 +1,10 @@
-<h1 align="center"> Hey there, I'm <a href="https://github.com/K9ntra">Kontra</a> 👋 </h1>
+<h1 align="center"> Hey there, I'm <a href="https://github.com/KontraPJL">Kontra</a> 👋 </h1>
 
 <p align="center">
-  <a href="https://x.com/k9ntra">Twitter/X</a> - 
-  <a href="https://www.tiktok.com/@k9ntra">TikTok</a> - 
+  <a href="https://x.com/kontrapjl">Twitter/X</a> - 
+  <a href="https://www.tiktok.com/@kontrapjl">TikTok</a> - 
   <a href="https://open.spotify.com/user/r433qbp2wcvjvive683t226zj">Spotify</a> - 
-  <a href="https://www.reddit.com/user/K9ntra/">Reddit</a>
+  <a href="https://www.reddit.com/user/KontraPJL/">Reddit</a>
 </p>
 
 ---
