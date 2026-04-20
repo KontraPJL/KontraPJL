@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="320px" align="right">
+## 🦦 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="320px" align="right">
 
 I am a programming student who began my journey by modifying **Lua** scripts on Roblox.
 
