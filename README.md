@@ -15,15 +15,14 @@
 
 ## 👨‍💻 About Me <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" width="320px" align="right">
 
-Programming student who started out modifying **Lua** scripts on Roblox.
+I am a programming student who began my journey by modifying **Lua** scripts on Roblox.
 
-Later got into **Discord bot development** with **Python**, then moved to **JavaScript**. That naturally led me into **HTML & CSS** and the world of web development.
+Subsequently, I transitioned into **Discord bot development** using **Python**, and later adopted **JavaScript**. This progression naturally led me to **HTML & CSS** and the broader field of web development.
 
-- 🔭 Currently working on **Discord bots & web projects**
-- 🌱 Currently learning **React / Node.js**
-- 💬 Ask me about **Python, JavaScript, or Discord bots**
-- ⚡ Fun fact: My first line of code was a Roblox Lua script
-
+- 🔭 Currently, I am engaged in **Discord bot and web development projects**.
+- 🌱 I am presently expanding my expertise in **React / Node.js**.
+- 💬 Feel free to inquire about **Python, JavaScript, or Discord bots**.
+- ⚡ A notable fact: My initial coding experience involved a Roblox Lua script.
 ---
 
 ## 🧠 Tech Stack
@@ -60,5 +59,5 @@ Later got into **Discord bot development** with **Python**, then moved to **Java
 ---
 
 <p align="center">
-  <i>⭐ Star some repositories if you find my projects interesting!</i>
+  <i>⭐ We encourage you to star our repositories if you find our projects to be of interest.</i>
 </p>
