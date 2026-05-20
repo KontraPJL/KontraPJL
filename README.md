@@ -7,9 +7,6 @@
   <a href="https://www.reddit.com/user/KontraPJL/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KontraPJL&color=blueviolet&style=flat&label=Profile+views" />
-</p>
 
 ---
 
