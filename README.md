@@ -1,10 +1,10 @@
-<h1 align="center">Hey, I'm <a href="https://github.com/KontraPJL">Kontra</a> 👋</h1>
+<h1 align="center">Hey, I'm <a href="https://github.com/qkontra">Kontra</a> 👋</h1>
 
 <p align="center">
-  <a href="https://x.com/kontrapjl"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=flat&logo=x&logoColor=white" /></a>&nbsp;
-  <a href="https://www.tiktok.com/@kontrapjl"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" /></a>&nbsp;
+  <a href="https://x.com/qkontra"><img src="https://img.shields.io/badge/Twitter%2FX-000000?style=flat&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://www.tiktok.com/@qkontra"><img src="https://img.shields.io/badge/TikTok-000000?style=flat&logo=tiktok&logoColor=white" /></a>&nbsp;
   <a href="https://open.spotify.com/user/r433qbp2wcvjvive683t226zj"><img src="https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white" /></a>&nbsp;
-  <a href="https://www.reddit.com/user/KontraPJL/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://www.reddit.com/user/qkontra/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white" /></a>
 </p>
 
 
