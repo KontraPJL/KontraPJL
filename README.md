@@ -49,8 +49,8 @@ Subsequently, I transitioned into **Discord bot development** using **Python**, 
 ## 📫 How to Reach Me
 
 <p>
-  <a href="https://x.com/kontrapjl"><img src="https://img.shields.io/badge/DM_on_Twitter-1DA1F2?style=flat&logo=x&logoColor=white" /></a>&nbsp;
-  <a href="https://www.reddit.com/user/KontraPJL/"><img src="https://img.shields.io/badge/Message_on_Reddit-FF4500?style=flat&logo=reddit&logoColor=white" /></a>
+  <a href="https://x.com/qkontra"><img src="https://img.shields.io/badge/DM_on_Twitter-1DA1F2?style=flat&logo=x&logoColor=white" /></a>&nbsp;
+  <a href="https://www.reddit.com/user/qkontra/"><img src="https://img.shields.io/badge/Message_on_Reddit-FF4500?style=flat&logo=reddit&logoColor=white" /></a>
 </p>
 
 ---
